@@ -1,4 +1,4 @@
-# CRM Client Program - Flutter
+# ERP Client Program - Flutter
 
 This project is a client application built using Flutter for a CRM (Customer Relationship Management) system. It allows users to interact with the CRM backend, providing functionalities such as managing customer data, subscriptions, and various other administrative tasks.
 
